@@ -1,4 +1,3 @@
 Hello Class!
 I'm learning git!
 Git remote adding.
-more changes!
