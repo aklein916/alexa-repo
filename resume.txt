@@ -1,1 +1,2 @@
 Hello Class!
+I'm learning git!
